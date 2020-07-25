@@ -1,6 +1,7 @@
 TRAIL for third commit
-Modifying few changes
+
 1-sum
 2-d
 3-l
-
+Modifying few changes
+Latest commit changes
